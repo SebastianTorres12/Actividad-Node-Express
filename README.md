@@ -33,7 +33,7 @@ inicial y la gestión de rutas.
 
 Para poder iniciar el servidor tenemos que situarnos en la ruta de la carpeta del proyecto y abrir una terminal integrada, en la terminal digitamos el comando
 
-  bash
+  ``` bash
   node index.js
-
+  ```
 Y para poder probar las distintas rutas, usamos como medio el programa *POSTMAN*
